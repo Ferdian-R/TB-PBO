@@ -29,7 +29,5 @@ data buku, peminjaman, pengembalian, serta perhitungan denda keterlambatan.
 
 ## Author
 - **Nama** : Ferdian Rahman
-- **NIM** : 2411522004
-
 - **NIM** : 2411522004  
 - **Mata Kuliah** : Pemrograman Berorientasi Objek  
